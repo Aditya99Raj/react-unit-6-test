@@ -1,0 +1,8 @@
+{
+    "countries":[
+      {"id":1,"country":"India","city":"Delhi","population":9000000},
+      {"id":2,"country":"Sri Lanka","city":"Colobo","population":4000000},
+      {"id":3,"country":"USA","city":"United States","population":5000000}
+    ]
+   
+}
